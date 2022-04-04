@@ -26,7 +26,7 @@ h2 {
 h3 {
     font-size: 16pt;
     font-weight: normal;
-    padding: 10px; 
+    padding: 10px;
 }
 
 h4 {
@@ -72,7 +72,7 @@ h4 {
     padding-left: 5px;
     padding-right: 5px;
     background-color: #c6bfbe;
-    color:#ffffff;
+    color: #ffffff;
     text-decoration: none;
     font-size: 16x;
     text-align: center;
@@ -89,7 +89,7 @@ h4 {
 
 
 .media-container {
-    display: flex;    
+    display: flex;
     align-items: center;
     justify-content: center;
     margin: 10vw;
@@ -99,14 +99,14 @@ h4 {
     flex: 1;
     margin: auto;
     max-width: 33vw;
-    text-align: justify;   
+    text-align: justify;
 }
 
 .media-container .image img {
     max-width: 33vw;
     margin: auto;
-    
- }
+
+}
 
 
 /*********************************************************************
@@ -125,7 +125,7 @@ h4 {
     flex: 1 1 0%;
     flex-flow: center;
     margin: 10px;
-    
+
 }
 
 .top-image img {
@@ -148,8 +148,8 @@ h4 {
     width: 600px;
     height: 450px;
     border: none;
-    
- }
+
+}
 
 /*********************************************************************
 **********            vorlesungen page                      ********** 
@@ -172,11 +172,20 @@ h4 {
 **********************************************************************/
 
 
-.team .media-container img {
+.media-container img {
     max-height: 50vh;
 }
 
+.media-container .content .karte {
+    flex: 1;
+    min-width: 100%;
+    text-align:justify;
+    max-width: 50vw;
+    
+   
 
+
+}
 
 /*********************************************************************
 **********            Footer                                ********** 

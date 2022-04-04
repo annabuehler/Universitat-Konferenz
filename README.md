@@ -1,13 +1,13 @@
-# Forensische Praxis
+# universität venezia
 
-Unsere Website ist eine forensische Praxis. Diese Praxis besteht aus einer Rechtsmedizinerin, einer Juristin und einem MPA/ Anwaltsgehilfen. Die Idee hinter der Praxis ist, dass man bei einem Unfall oder häuslicher Gewallt unsere Praxis aufsuchen kann, bei der eine medizinische Versorgung und Dokumentation, sowie die rechtliche Stütze vorhanden ist.
+Unsere Website ist eine forensische. Diese Praxis besteht aus einer Rechtsmedizinerin, einer Juristin und einem MPA/ Anwaltsgehilfen. Die Idee hinter der Praxis ist, dass man bei einem Unfall oder häuslicher Gewallt unsere Praxis aufsuchen kann, bei der eine medizinische Versorgung und Dokumentation, sowie die rechtliche Stütze vorhanden ist.
 Diese Praxisidee kam zustande, da wir so unsere individuellen beruflichen Ziele vereinbaren können und uns während dieses Arbeitsauftrages näher mit den von uns verfolgten Berufszielen auseinandersetzen können. Als uns diese Idee kam, war es auch schnell klar wie wir die Website strukturieren wollen und welche einzelnen Seiten wir passend finden. 
 
 ## Projektplan
 
 Auf jeder Unterseite unserer Website befindet sich ein header mit unserem Logo und ein footer mit den wichtigsten Daten zu unserer Praxis. Ausserdem hat man mithilfe des Menus immer Zugang zu jeder Unterseite. Beim Menu wollten wir hover-Effekt einbauen. 
 Allgemein war es uns wichtig einheitliche Schriftarten und Schriftgrössen zu verwenden. Dies konnten wir mithilfe des CSS programmieren.
- Auf der ganzen Website werden auch nur zwei Titelgrössen verwendet. Dies dient zur einheitlichen Gestalltung.  
+Auf der ganzen Website werden auch nur zwei Titelgrössen verwendet. Dies dient zur einheitlichen Gestalltung.  
 
 ### Hauptseite - home
 ![home](bilder/home.JPG)
