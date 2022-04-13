@@ -10,7 +10,7 @@ body {
 }
 
 h1 {
-    font-size: 25pt;
+    font-size: 20pt;
     font-weight: normal;
     padding: 10px;
     text-align: center;
@@ -92,21 +92,51 @@ h4 {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin: 10vw;
+    margin: 7vw;
 }
 
 .media-container .content {
     flex: 1;
     margin: auto;
-    max-width: 33vw;
+    max-width: 50vw;
     text-align: justify;
 }
 
 .media-container .image img {
-    max-width: 33vw;
     margin: auto;
 
 }
+
+
+.button {
+    justify-content:center;
+    border-radius: 8px;
+    font-size: 18px;
+    font-weight: normal;
+    margin: 20px;
+    padding:20px;
+    text-align: center;
+    border: none;
+
+}
+
+
+.row .button {
+    flex-basis: 100px;
+    flex-shrink: 0;
+    flex-grow: 1;
+    padding: 8px;
+    background-color:light grey;
+    color:black;
+    font-size: 16x;
+    text-align: center;
+}
+
+.row .button:hover {
+    background-color: #c6bfbe;
+    color: black;
+}
+
 
 
 /*********************************************************************
@@ -155,15 +185,18 @@ h4 {
 **********            vorlesungen page                      ********** 
 **********************************************************************/
 
-.media-container .border {
+.media-container .vorlesung {
 
-    border: 2px solid black;
+    border: 2px solid #c6bfbe;
+    border-radius: 8px;
     text-align: center;
     justify-content: center;
     padding: 10px;
     width: 100%;
     vertical-align: center;
 }
+
+
 
 
 
@@ -176,12 +209,66 @@ h4 {
     max-height: 50vh;
 }
 
-.media-container .content .uni {
+.info-uni {
     flex: 1;
-    min-width: 100%;
-    max-width: 50vw;
+    text-align: justify;
+    padding-left: 10vw;
+    padding-right: 10vw;
+    padding-top: 2vw;
+    
+}
+.low-image-container {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    text-align: left;
+}
+
+.low-image {
+    flex-wrap: nowrap;
+    flex: 1 1 0%;
+    flex-flow: center;
+    margin: 30px;
 
 }
+
+.low-image img {
+    width:200px;
+    min-width: 100%;
+    max-height: 400px;
+    object-fit: cover;
+    vertical-align: middle;
+
+}
+
+
+/*********************************************************************
+**********            anmelden page                         ********** 
+**********************************************************************/
+
+.anmelden {
+    justify-content: center;
+    border:2px solid #c6bfbe;  
+    border-radius: 8px;
+    margin-top:50px;
+    margin-bottom: 150px;
+    margin-right: 30%;
+    margin-left: 30%;
+    padding: 1px;
+    text-align: center;
+}
+
+.anmelden form input  {
+    display: flex;
+    justify-content:center;
+    margin: 15px auto;
+    padding: 5px;
+ 
+}
+
+
+
+
 
 /*********************************************************************
 **********            Footer                                ********** 
