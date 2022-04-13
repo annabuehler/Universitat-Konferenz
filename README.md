@@ -1,18 +1,18 @@
 # universität venezia
 
-Unsere Website ist eine forensische. Diese Praxis besteht aus einer Rechtsmedizinerin, einer Juristin und einem MPA/ Anwaltsgehilfen. Die Idee hinter der Praxis ist, dass man bei einem Unfall oder häuslicher Gewallt unsere Praxis aufsuchen kann, bei der eine medizinische Versorgung und Dokumentation, sowie die rechtliche Stütze vorhanden ist.
-Diese Praxisidee kam zustande, da wir so unsere individuellen beruflichen Ziele vereinbaren können und uns während dieses Arbeitsauftrages näher mit den von uns verfolgten Berufszielen auseinandersetzen können. Als uns diese Idee kam, war es auch schnell klar wie wir die Website strukturieren wollen und welche einzelnen Seiten wir passend finden. 
+Für unser Projekt eine Konferenzwebsite zu programmieren haben wir die Universität Venezia ausgesucht. Dafür haben wir eine Website der Universität programmiert, dort stehen sämtliche Informationen zur Universität. Auf verschiedenen Unterseiten kann man sämliche Informationen herausfinden. Ausserdem können sich studierende dort für unterschiedliche Kurse anmelden. 
+Die Idee dieses Projektes kam dadurch zustande, dass wir beide sehr gerne für eine Zeit im Ausland studieren würden. Uns ist aufgefallen, dass bei der Auswahl einer Universität deren Website eine grosse Rolle spielt. Deshalb haben wir es uns als Aufgabe gestellt eine ansprechende Website für die Universiät Venezia zu gestalten.
 
 ## Projektplan
 
-Auf jeder Unterseite unserer Website befindet sich ein header mit unserem Logo und ein footer mit den wichtigsten Daten zu unserer Praxis. Ausserdem hat man mithilfe des Menus immer Zugang zu jeder Unterseite. Beim Menu wollten wir hover-Effekt einbauen. 
-Allgemein war es uns wichtig einheitliche Schriftarten und Schriftgrössen zu verwenden. Dies konnten wir mithilfe des CSS programmieren.
-Auf der ganzen Website werden auch nur zwei Titelgrössen verwendet. Dies dient zur einheitlichen Gestalltung.  
+Auf jeder Unterseite unserer Website befindet sich ein header mit dem Logo der Universität und ein footer mit den wichtigsten Daten. Ausserdem hat man mithilfe des Menus Zugang zu jeder Unterseite und auch eine Anmeldeoption für Studiernede. Als Grundlage unserer Website diente unsere alte Website einer Praxis.
 
-### Hauptseite - home
-![home](bilder/home.JPG)
+Einserseits war es uns wichtig eine funktionierende und ansprechend gestaltete Website zu Programmieren, andererseits sollten Stundierende eine Anmeldemöglichkeit haben. Unsere Idee war es ein Anmeldebutton/Abmeldebutton zu programmieren. Sobald man angemeldet ist, hat man die Möglichkeit sich für unterschiedliche Kurse anzumelden.  
 
-Auf der Hauptseite war es für uns in erster Linie wichtig, dass der Besucher der Weebsite unserer Praxis auf den ersten Blick erfährt welche Dienstleistungen wir anbieten. Deshalb war uns eine einfache und übersichtliche Gliederung wichtig. Wir haben uns auch entschieden die News auf die Hauptseite zu nehmen damit sie für jeden schnell ersichtlich sind. Uns war es wichtig, dass man direkt einen Einblick in unsere Praxis erhält, daher haben wir drei Bilder unserer Praxis oben eingefügt. 
+### Hauptseite - universität
+![home](bilder/unive_home.png)
+
+Auf der Hauptseite war es für uns in erster Linie wichtig, dass neue Studenten und Studentinnen durch unsere Website gefallen an der Universität finden und dort eventuell studieren werden. Deshalb war uns eine einfache und übersichtliche Gliederung wichtig, damit man schnell zu den wichtigsten Informatinen gelant. Wir haben uns auch entschieden die News auf die Hauptseite zu nehmen damit sie für jeden schnell ersichtlich sind. Auch war uns die Geschichte und Lage der Universität wichtig, daher haben wir darüber auch kurze texte geschrieben 
 
 ### Unterseite 1 - praxis
 ![praxis](bilder/praxis.JPG)

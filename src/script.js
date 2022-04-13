@@ -66,3 +66,29 @@ document.addEventListener("DOMContentLoaded", function (event) {
 // OTHER SCRIPTS //
 ///////////////////
 
+function anmelden(){
+
+    window.sessionStorage.clear();
+
+    var benutzername = document.getElementById('benutzername').value;
+
+
+    const benutzer = {
+        name: benutzername
+    }
+
+    window.sessionStorage.setItem('currentBenutzer', JSON.stringify(benutzer));
+}
+
+function abmelden (){
+    window.sessionStorage.clear();
+}
+
+
+function teilnehmen (){
+
+    var currentBenutzer=JSON.parse(window.sessionStorage.getItem('currentBenutzer'));
+
+    window.localStorage.setItem(benutzername, JSON.stringify());
+}
+
