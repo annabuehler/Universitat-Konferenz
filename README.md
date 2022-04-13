@@ -44,19 +44,19 @@ Hier können sich alle Studierenden der Universität mit ihrem Benutzerkonto anm
 
 | Deadline | Name | Beschreibung |
 | --- | --- | --- |
-| KW 42/43 2021 | Anna Bühler und Mia Hollenstein | Thema der Website ausgewählt, Projektplanung begonnen|
-| KW 44/45 2021 | Anna Bühler und Mia Hollenstein| Zeitplan geschrieben, einfache und erweiterte Version|
-| KW 46/47 2021 | Anna Bühler und Mia Hollenstein | Planung des Aufbaus der Website, welche Universität|
-| KW 48/50 2021 |  Anna Bühler und Mia Hollenstein| erste Skizzen der Website, header und footer gemacht, Logo gestaltet, Titel der Website|
-| KW 50/51 2021 | Anna Bühler |Menu mit hover- Effekt, Anwendung flex-Box, Formatierungen der Unterseiten |
-| KW 52/1 2021 | Mia Hollenstein | Text für universität Seite und campus geschrieben, begonnen mit der Bilderwahl|
-| KW 2/3 2021 | Anna Bühler und Mia Hollenstein | Texte überarbeitet, neue ideensammlung, struktur angelegt|
-| KW 4/5 2021 | Anna Bühler Mia Hollenstein| Dokumentation begonnen, Projektplanung überarbeitet
-| KW 6/7 2021 | Mia Hollenstein | ReadMe begonnen |
-| KW 8/9 2021 | Anna Bühler und Mia Hollenstein | Website begonnen zu programmieren, alles bisherige zusammenfügen|
-| KW 10/11 2021| Anna Bühler und Mia Hollenstein| Website formatiert, farben angepasst, Website fertig programmiert mit anmeldefunktion|
-| KW 12/13 2021| Anna Bühler und Mia Hollenstein| Dokumentation weitergeschrieben|
-| KW 14/15 2021| Anna Bühler und Mia Hollenstein| Website, Dokumentation, ReadMe fertiggestellt |
+| KW 42/43 | Anna Bühler und Mia Hollenstein | Thema der Website ausgewählt, Projektplanung begonnen|
+| KW 44/45  | Anna Bühler und Mia Hollenstein| Zeitplan geschrieben, einfache und erweiterte Version|
+| KW 46/47 | Anna Bühler und Mia Hollenstein | Planung des Aufbaus der Website, welche Universität|
+| KW 48/50 |  Anna Bühler und Mia Hollenstein| erste Skizzen der Website, header und footer gemacht, Logo gestaltet, Titel der Website|
+| KW 50/51 | Anna Bühler |Menu mit hover- Effekt, Anwendung flex-Box, Formatierungen der Unterseiten |
+| KW 52/1 | Mia Hollenstein | Text für universität Seite und campus geschrieben, begonnen mit der Bilderwahl|
+| KW 2/3 | Anna Bühler und Mia Hollenstein | Texte überarbeitet, neue ideensammlung, struktur angelegt|
+| KW 4/5 | Anna Bühler Mia Hollenstein| Dokumentation begonnen, Projektplanung überarbeitet
+| KW 6/7 | Mia Hollenstein | ReadMe begonnen |
+| KW 8/9 | Anna Bühler und Mia Hollenstein | Website begonnen zu programmieren, alles bisherige zusammenfügen|
+| KW 10/11 | Anna Bühler und Mia Hollenstein| Website formatiert, farben angepasst, Website fertig programmiert mit anmeldefunktion|
+| KW 12/13 | Anna Bühler und Mia Hollenstein| Dokumentation weitergeschrieben|
+| KW 14/15 | Anna Bühler und Mia Hollenstein| Website, Dokumentation, ReadMe fertiggestellt |
 
 ## Umsetzung
 Da wir von Anfang an wussten, dass alle Seiten gleich aufgebaut werden, haben wir für alle Bilder und Text einen Kontainer erstellt.  Dort haben wir auch zum Beispiel margin und justify-content und die buttons definiert. Ausserdem haben wir verschiedene Titelarten definiert. Auch die grössen der Bilder haben wir einheitlich zugeschnitten.
