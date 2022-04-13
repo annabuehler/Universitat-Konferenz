@@ -52,19 +52,19 @@ Hier können sich alle Studierenden der Universität mit ihrem Benutzerkonto anm
 | KW 52/1 2021 | Mia Hollenstein | Text für universität Seite und campus geschrieben, begonnen mit der Bilderwahl|
 | KW 2/3 2021 | Anna Bühler und Mia Hollenstein | Texte überarbeitet, neue ideensammlung, struktur angelegt|
 | KW 4/5 2021 | Anna Bühler Mia Hollenstein| Dokumentation begonnen, Projektplanung überarbeitet
-| KW 6/7 2021 | Mia Hollenstein | readme begonnen |
+| KW 6/7 2021 | Mia Hollenstein | ReadMe begonnen |
 | KW 8/9 2021 | Anna Bühler und Mia Hollenstein | Website begonnen zu programmieren, alles bisherige zusammenfügen|
 | KW 10/11 2021| Anna Bühler und Mia Hollenstein| Website formatiert, farben angepasst, Website fertig programmiert mit anmeldefunktion|
 | KW 12/13 2021| Anna Bühler und Mia Hollenstein| Dokumentation weitergeschrieben|
-| KW 14/15 2021| Anna Bühler und Mia Hollenstein| Website, Dokumentation, Readme fertiggestellt |
+| KW 14/15 2021| Anna Bühler und Mia Hollenstein| Website, Dokumentation, ReadMe fertiggestellt |
 
 ## Umsetzung
 Da wir von Anfang an wussten, dass alle Seiten gleich aufgebaut werden, haben wir für alle Bilder und Text einen Kontainer erstellt.  Dort haben wir auch zum Beispiel margin und justify-content und die buttons definiert. Ausserdem haben wir verschiedene Titelarten definiert. Auch die grössen der Bilder haben wir einheitlich zugeschnitten.
 Das Logo der Universität, welches auf jeder Seite im Banner zu finden ist, haben wir selbst entworfen und designt. Unsere Website haben wir in ählichen Farben gehalten, passend zum Campus. Ausserdem haben wir eine Anmeldeoption für Studierende die sich dadurch für Vorlesungen individuell anmelden können.
 
 ### Hauptseite - home
-![homepage](bilder/Homepage.png)
-![homepage 2](bilder/Homepage2.png)
+![homepage](src/bilder/home_bildbanner.png)
+
 
 Die oben zu sehenden Bilder passen sich der Fenstergrösse an. Dafür haben wir eine flex-Box erstellt und `justify-content: strech;` verwendet. Für unser Angebot und die News haben wir die oben erwähnten Kontainer (flex-Boxen) verwendet. Im Text zum Angebot erfährt man eine kleine Zusammenfassung über die Dienstleitungen unserer Praxis. Das Bild fanden wir sehr passend, da in dieser Auslage die Angebote der Lektüren in unserem Wartebereich zu sehen sind. Da unserer Praxis gerade umgezogen ist haben wir uns entschieden ein Bild unseres neuen Standortes zu wählen, da dies der Inhalt unserer News ist.
 
