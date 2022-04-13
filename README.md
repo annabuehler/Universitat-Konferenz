@@ -12,51 +12,63 @@ Einserseits war es uns wichtig eine funktionierende und ansprechend gestaltete W
 ### Hauptseite - universität
 ![home](src/bilder/unive_home.png)
 
+
 Auf der Hauptseite war es für uns in erster Linie wichtig, dass neue Studenten und Studentinnen durch unsere Website gefallen an der Universität finden und dort eventuell studieren werden. Deshalb war uns eine einfache und übersichtliche Gliederung wichtig, damit man schnell zu den wichtigsten Informatinen gelant. Wir haben uns auch entschieden die News auf die Hauptseite zu nehmen damit sie für jeden schnell ersichtlich sind. Auch war uns die Geschichte und Lage der Universität wichtig, daher haben wir darüber auch kurze texte geschrieben 
 
 ### Unterseite 1 - vorlesungen
-![praxis](src/bilder/Vorlesungen.png)
+![Vorlesungen](src/bilder/Vorlesungen.png)
 
-Uns war es wichtig, dass alle Seiten eine einheitliche Struktur haben, weswegen wir auch auf der ersten Unterseite Bild und Text nebeneinander angeordnet haben. Wir wollten unseren Websitebesuchern einen Einblick in die einzelnen Behandlungszimmer gewähren. 
+Hier können sie unsere Studenten und Studentinnen für verschiedenste Vorlesungen anmelden. Jedoch auch abmelden, wenn man nicht teilnehmen kann.
 
 ### Unterseite 2 - campus
-![team](src/bilder/campus.png)
-
-Auf der zweiten Unterseite wollten wir das ganze Praxisteam vorstellen. Jedoch wollten wir hier eine einheitlichere Anordnung von Bild und Text umsetzen. Dass die Besucher der Website unsere Namen mit einem Gesicht verbinden können, bevor sie in unsere Praxis kommen, war für uns unentbehrlich. 
-
-### Unterseite 3 - konakt
-![kontakt](src/bilder/kontakt.png)
-Auf der Kontaktseite wollten wir zuerst Telefonnummer und Emailadresse notieren. Nach kurzem Überlegen haben wir uns aber dazu entschieden die Daten in den footer zu schreiben, da sie somit von jeder Seite direkt sichtbar sind. Daher kann man auf der Kontaktseite nur unsere Öffnungszeiten und unsere Adresse sehen.
+![campus](src/bilder/campus.png)
 
 
+Auf der zweiten Unterseite wollten wir den Campus vorstellen. Um ihn von verschiedenen Perspektiven zeigen zu können haben wir einerseits einen Text verfasstr aber auch zwei schöne Bilder ausgewählt.
+
+### Unterseite 3 - kontakt
+![Kontakt](src/bilder/kontakt.png)
+
+
+Auf der Kontaktseite wollten wir zuerst Telefonnummer und Emailadresse notieren. Nach kurzem Überlegen haben wir uns aber dazu entschieden die Daten in den footer zu schreiben, da sie so von jeder Seite direkt sichtbar sind. 
+
+Als Karte haben wir eine Interaktive Karte verwendet. Man kann herein- oder herauszoomen, so ist die Lage der Universität gut ersichtlich.
+
+### Unterseite 4 - anmelden
+![Anmeldeoption](src/bilder/anmelden.png)
+
+Hier können sich alle Studierenden der Universität mit ihrem Benutzerkonto anmelden. Dies ist notwendig, damit sie sich später auch für die vorlesungen anmelden können und so ihren individuellen Anmeldestatus überprüfen können.
 ## Zeitplan
 
 
 
 | Deadline | Name | Beschreibung |
 | --- | --- | --- |
-| 03.05.2021 | Anna Bühler und Mia Hollenstein | Thema der Website ausgesucht |
-| 09.05.2021 | Anna Bühler und Mia Hollenstein| Zeitplan geschrieben|
-| 10.05.2021 | Anna Bühler und Mia Hollenstein | Planung des Aufbaus der Website |
-| 10.05.2021 |  Anna Bühler und Mia Hollenstein| haeder und footer gemacht, Logo gestaltet , Öffnungszeiten hinzugefügt|
-| 17.05.2021 | Anna Bühler |Menu mit hover- Effekt, Anwendung flex-Box, Formatierung |
-| 17.05.2021 | Mia Hollenstein | Text für home Seite geschrieben, begonnen mit der Bilderwahl, Kurzbeschreibung der Website im readme geschrieben |
-| 21.05.2021 | Anna Bühler und Mia Hollenstein | home- und kontaktseite formatiert |
-| 23.05.2021 | Anna Bühler | praxis- und teamseite formatiert, css strukturiert und kommentiert || 04.01.2021 | Vorname Name | Das wird gemacht |
-| 23.05.2021 | Mia Hollenstein | readme weitergeschrieben |
-| 24.05.2021 | Anna Bühler und Mia Hollenstein | Bilder eingefügt, Text fertig geschrieben und eingefügt auf allen Seiten, an readme  weitergearbeitet  |
-| 27.05.2021| Anna Bühler und Mia Hollenstein| readme fertiggestellt|
-
+| KW 42/43 2021 | Anna Bühler und Mia Hollenstein | Thema der Website ausgewählt, Projektplanung begonnen|
+| KW 44/45 2021 | Anna Bühler und Mia Hollenstein| Zeitplan geschrieben, einfache und erweiterte Version|
+| KW 46/47 2021 | Anna Bühler und Mia Hollenstein | Planung des Aufbaus der Website, welche Universität|
+| KW 48/50 2021 |  Anna Bühler und Mia Hollenstein| erste Skizzen der Website, header und footer gemacht, Logo gestaltet, Titel der Website|
+| KW 50/51 2021 | Anna Bühler |Menu mit hover- Effekt, Anwendung flex-Box, Formatierungen der Unterseiten |
+| KW 52/1 2021 | Mia Hollenstein | Text für universität Seite und campus geschrieben, begonnen mit der Bilderwahl|
+| KW 2/3 2021 | Anna Bühler und Mia Hollenstein | Texte überarbeitet, neue ideensammlung, struktur angelegt|
+| KW 4/5 2021 | Anna Bühler Mia Hollenstein| Dokumentation begonnen, Projektplanung überarbeitet
+| KW 6/7 2021 | Mia Hollenstein | readme begonnen |
+| KW 8/9 2021 | Anna Bühler und Mia Hollenstein | Website begonnen zu programmieren, alles bisherige zusammenfügen|
+| KW 10/11 2021| Anna Bühler und Mia Hollenstein| Website formatiert, farben angepasst, Website fertig programmiert mit anmeldefunktion|
+| KW 12/13 2021| Anna Bühler und Mia Hollenstein| Dokumentation weitergeschrieben|
+| KW 14/15 2021| Anna Bühler und Mia Hollenstein| Website, Dokumentation, Readme fertiggestellt |
 
 ## Umsetzung
-Da wir von Anfang an wussten, dass alle Seiten gleich aufgebaut werden, haben wir für alle Bilder einen Kontainer erstellt und einen für alle Texte. Dort haben wir auch zum Beispiel marign und justify-content definiert. Ausserdem haben wir verschiedene Titelarten definiert. Auch die grössen der Bilder haben wir einheitlich zugeschnitten.
-Das Logo, welches auf jeder Seite im Banner zu finden ist, haben wir selbst entworfen und designt. Unsere Website haben wir an die Farbe des Logos angepasst. Deshalb ist unsere Website in den Farben Blau, Schwarz und Weiss. Die Innenarchitektur enthält vor allem Holzelemente. 
+Da wir von Anfang an wussten, dass alle Seiten gleich aufgebaut werden, haben wir für alle Bilder und Text einen Kontainer erstellt.  Dort haben wir auch zum Beispiel margin und justify-content und die buttons definiert. Ausserdem haben wir verschiedene Titelarten definiert. Auch die grössen der Bilder haben wir einheitlich zugeschnitten.
+Das Logo der Universität, welches auf jeder Seite im Banner zu finden ist, haben wir selbst entworfen und designt. Unsere Website haben wir in ählichen Farben gehalten, passend zum Campus. Ausserdem haben wir eine Anmeldeoption für Studierende die sich dadurch für Vorlesungen individuell anmelden können.
 
 ### Hauptseite - home
 ![homepage](bilder/Homepage.png)
 ![homepage 2](bilder/Homepage2.png)
 
-Die oben zu sehenden Bilder passen sich der Fenstergrösse an. Dafür haben wir eine flex-Box erstellt und `justify-content: streach;` verwendet. Für unser Angebot und die News haben wir die oben erwähnten Kontainer (flex-Boxen) verwendet. Im Text zum Angebot erfährt man eine kleine Zusammenfassung über die Dienstleitungen unserer Praxis. Das Bild fanden wir sehr passend, da in dieser Auslage die Angebote der Lektüren in unserem Wartebereich zu sehen sind. Da unserer Praxis gerade umgezogen ist haben wir uns entschieden ein Bild unseres neuen Standortes zu wählen, da dies der Inhalt unserer News ist.
+Die oben zu sehenden Bilder passen sich der Fenstergrösse an. Dafür haben wir eine flex-Box erstellt und `justify-content: strech;` verwendet. Für unser Angebot und die News haben wir die oben erwähnten Kontainer (flex-Boxen) verwendet. Im Text zum Angebot erfährt man eine kleine Zusammenfassung über die Dienstleitungen unserer Praxis. Das Bild fanden wir sehr passend, da in dieser Auslage die Angebote der Lektüren in unserem Wartebereich zu sehen sind. Da unserer Praxis gerade umgezogen ist haben wir uns entschieden ein Bild unseres neuen Standortes zu wählen, da dies der Inhalt unserer News ist.
+
+---------
 
 ### Unterseite 1 - praxis
 ![Behandlungszimmer Mia](bilder/BehandlungszimmerMia.png)
