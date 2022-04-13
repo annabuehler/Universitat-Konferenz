@@ -15,18 +15,18 @@ Einserseits war es uns wichtig eine funktionierende und ansprechend gestaltete W
 
 Auf der Hauptseite war es für uns in erster Linie wichtig, dass neue Studenten und Studentinnen durch unsere Website gefallen an der Universität finden und dort eventuell studieren werden. Deshalb war uns eine einfache und übersichtliche Gliederung wichtig, damit man schnell zu den wichtigsten Informatinen gelant. Wir haben uns auch entschieden die News auf die Hauptseite zu nehmen damit sie für jeden schnell ersichtlich sind. Auch war uns die Geschichte und Lage der Universität wichtig, daher haben wir darüber auch kurze texte geschrieben 
 
-### Unterseite 1 - vorlesungen
+### Unterseite 1 - Vorlesungen
 ![Vorlesungen](src/bilder/Vorlesungen.png)
 
 Hier können sie unsere Studenten und Studentinnen für verschiedenste Vorlesungen anmelden. Jedoch auch abmelden, wenn man nicht teilnehmen kann.
 
-### Unterseite 2 - campus
+### Unterseite 2 - Campus
 ![campus](src/bilder/campus.png)
 
 
 Auf der zweiten Unterseite wollten wir den Campus vorstellen. Um ihn von verschiedenen Perspektiven zeigen zu können haben wir einerseits einen Text verfasstr aber auch zwei schöne Bilder ausgewählt.
 
-### Unterseite 3 - kontakt
+### Unterseite 3 - Kontakt
 ![Kontakt](src/bilder/kontakt.png)
 
 
@@ -34,7 +34,7 @@ Auf der Kontaktseite wollten wir zuerst Telefonnummer und Emailadresse notieren.
 
 Als Karte haben wir eine Interaktive Karte verwendet. Man kann herein- oder herauszoomen, so ist die Lage der Universität gut ersichtlich.
 
-### Unterseite 4 - anmelden
+### Unterseite 4 - Anmeldeoption
 ![Anmeldeoption](src/bilder/anmelden.png)
 
 Hier können sich alle Studierenden der Universität mit ihrem Benutzerkonto anmelden. Dies ist notwendig, damit sie sich später auch für die vorlesungen anmelden können und so ihren individuellen Anmeldestatus überprüfen können.
