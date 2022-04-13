@@ -15,17 +15,17 @@ Einserseits war es uns wichtig eine funktionierende und ansprechend gestaltete W
 Auf der Hauptseite war es für uns in erster Linie wichtig, dass neue Studenten und Studentinnen durch unsere Website gefallen an der Universität finden und dort eventuell studieren werden. Deshalb war uns eine einfache und übersichtliche Gliederung wichtig, damit man schnell zu den wichtigsten Informatinen gelant. Wir haben uns auch entschieden die News auf die Hauptseite zu nehmen damit sie für jeden schnell ersichtlich sind. Auch war uns die Geschichte und Lage der Universität wichtig, daher haben wir darüber auch kurze texte geschrieben 
 
 ### Unterseite 1 - vorlesungen
-![praxis](bilder/Vorlesungen.png)
+![praxis](src/bilder/Vorlesungen.png)
 
 Uns war es wichtig, dass alle Seiten eine einheitliche Struktur haben, weswegen wir auch auf der ersten Unterseite Bild und Text nebeneinander angeordnet haben. Wir wollten unseren Websitebesuchern einen Einblick in die einzelnen Behandlungszimmer gewähren. 
 
 ### Unterseite 2 - campus
-![team](bilder/campus.png)
+![team](src/bilder/campus.png)
 
 Auf der zweiten Unterseite wollten wir das ganze Praxisteam vorstellen. Jedoch wollten wir hier eine einheitlichere Anordnung von Bild und Text umsetzen. Dass die Besucher der Website unsere Namen mit einem Gesicht verbinden können, bevor sie in unsere Praxis kommen, war für uns unentbehrlich. 
 
 ### Unterseite 3 - konakt
-![kontakt](bilder/kontakt.png)
+![kontakt](src/bilder/kontakt.png)
 Auf der Kontaktseite wollten wir zuerst Telefonnummer und Emailadresse notieren. Nach kurzem Überlegen haben wir uns aber dazu entschieden die Daten in den footer zu schreiben, da sie somit von jeder Seite direkt sichtbar sind. Daher kann man auf der Kontaktseite nur unsere Öffnungszeiten und unsere Adresse sehen.
 
 
