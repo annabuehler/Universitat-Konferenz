@@ -58,9 +58,14 @@ Hier können sich alle Studierenden der Universität mit ihrem Benutzerkonto anm
 | KW 12/13 | Anna Bühler und Mia Hollenstein| Dokumentation weitergeschrieben|
 | KW 14/15 | Anna Bühler und Mia Hollenstein| Website, Dokumentation, ReadMe fertiggestellt |
 
+
+
+
 ## Umsetzung
 Da wir von Anfang an wussten, dass alle Seiten gleich aufgebaut werden, haben wir für alle Bilder und Text einen Kontainer erstellt.  Dort haben wir auch zum Beispiel margin und justify-content und die buttons definiert. Ausserdem haben wir verschiedene Titelarten definiert. Auch die grössen der Bilder haben wir einheitlich zugeschnitten.
 Das Logo der Universität, welches auf jeder Seite im Banner zu finden ist, haben wir selbst entworfen und designt. Unsere Website haben wir in ählichen Farben gehalten, passend zum Campus. Ausserdem haben wir eine Anmeldeoption für Studierende die sich dadurch für Vorlesungen individuell anmelden können.
+
+
 
 ### Hauptseite - home
 ![homepage](src/bilder/home_bildbanner.png)
@@ -68,26 +73,26 @@ Das Logo der Universität, welches auf jeder Seite im Banner zu finden ist, habe
 
 Die oben zu sehenden Bilder passen sich der Fenstergrösse an. Dafür haben wir eine flex-Box erstellt und `justify-content: strech;` verwendet. Für unser Angebot und die News haben wir die oben erwähnten Kontainer (flex-Boxen) verwendet. Im Text zum Angebot erfährt man eine kleine Zusammenfassung über die Dienstleitungen unserer Praxis. Das Bild fanden wir sehr passend, da in dieser Auslage die Angebote der Lektüren in unserem Wartebereich zu sehen sind. Da unserer Praxis gerade umgezogen ist haben wir uns entschieden ein Bild unseres neuen Standortes zu wählen, da dies der Inhalt unserer News ist.
 
----------
 
-### Unterseite 1 - praxis
-![Behandlungszimmer Mia](bilder/BehandlungszimmerMia.png)
-![Behandlungszimmer Anna](bilder/BehandlungszimmerAnna.png)
+### Unterseite 1 - Vorlesungen
+![Vorlesungen Bsp.](src/bilder/Vorlesungen_2.png)
 
-Auf der ersten Unterseite stellen wir unsere Behandlungszimmer vor. Die Bilder sollen einladend wirken und zusammen mit dem Text aber auch informativ sein. Im Text zum juristischen Büro erwähnen wir das Anwaltsgeheimnis und gehen auf die Arbeit unserer Anwältin (Mia Hollenstein) ein. Im Text zum medizinischen Behandlungszimmer gehen wir auf die Arbeit unserer Rechtsmedizinerin (Anna Bühler) ein. 
 
-### Unterseite 2 - team
-![Lebenslauf Mia](bilder/LebenslaufMia.png)
-![Lebenslauf Anna](bilder/LebenslaufAnna.png)
-![Lebenslauf Umut](bilder/LebenslaufUmut.png)
+Auf der ersten Unterseite befinden sich alle Vorlesungen, die die Universität anbietet vor. Die Anmeldug solll möglichs einfach gehalten werden, aber auch ansprechend designt sein, deshalb haben wir uns für ein schlichtes Design entschieden. Im Text zum juristischen Büro erwähnen wir das Anwaltsgeheimnis und gehen auf die Arbeit unserer Anwältin (Mia Hollenstein) ein. Im Text zum medizinischen Behandlungszimmer gehen wir auf die Arbeit unserer Rechtsmedizinerin (Anna Bühler) ein. 
 
-Auf der dritten Unterseite stellen wir das Praxisteam vor. Jedes Praxismitglied wird durch eine kurze Beschreibung vorgestellt und einem Bild. In der Beschreibung sind unsere Ausbildungen, sowie Weiterbildungen und Kompetenzen zu finden. Dazu haben wir recherchiert und passende Angaben verwendet. Diese haben wir dann, für eine gute Übersicht, mit Stichpunkten untereinander geschrieben. 
+### Unterseite 2 - campus
+![text campus](src/bilder/text_campus.png)
+![bild cmapus](src/bilder/bild_campus.png)
+
+
+Auf der dritten Unterseite stellen wir die Universität vor. In einem text erläutern wir die Lage aber auch die Umgebung der Universität. Der Text dient als Einblick in das Leben in Venedig. 
+
 
 ### Unterseite 3 - kontakt
-![Kontakt](bilder/Kontakt.png)
+![Kontakt](src/bilder/kontakt.png)
 
-Auf der letzten Unterseite haben wir uns überlegt eine interaktive Karte zu verwenden die direkt zu unserem Standort führt. Dafür haben wir auf Google Maps den Link kopiert und eingefügt. Ausserdem stehen unsere Öffnungszeiten, welche wir im html Dokument mithilfe einer Tabelle formatiert haben, auf der dritten Unterseite.
+Auf der letzten Unterseite haben wir uns überlegt eine interaktive Karte zu verwenden die direkt zu unserem Standort führt. Dafür haben wir auf Google Maps den Link kopiert und eingefügt und einen iframe erstellt. So wollen wir es zukunftigen Studenten und Studentinnen einfacher machen die Universität zu finden.
 
 ## Zusammenfassung
 
-Schlussendlich stimmen Skizze und Endergebnis sehr gut überein. Jedoch haben wir uns bei der Planung auch schon Gedanken gemacht welche man gut umsetzen konnte, sodass wir später nicht auf allzu grosse Probleme treffen. Der Zeitplan wurde während des programmierens nicht direkt eingehalten, da wir gemerkt haben das wir zuerst die Website programmieren müssen bevor wir richtig mit dem readme starten konnten. Zeitlich ist es dann schlussendlich aber doch sehr gut aufgegangen. 
+Schlussendlich sind wir mit der Umsetung unserer Skizzen sehr zufrieden. Den Zeitplan haben wir während des programmierens nicht direkt eingehalten, da wir gemerkt haben, dass wir am liebsten mehrer Stunden am Stück arbeiten und dann eine Pause machen. Bevor  wir mit dem eigentlichen programmieren starten konnten muessten wir als erstes dei Website programmieren. 
