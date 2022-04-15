@@ -1,6 +1,6 @@
 # universität venezia
 
-Für unser Projekt eine Konferenzwebsite zu programmieren haben wir die Universität Venezia ausgesucht. Dafür haben wir eine Website der Universität programmiert, dort stehen sämtliche Informationen zur Universität. Auf verschiedenen Unterseiten kann man sämliche Informationen herausfinden. Ausserdem können sich studierende dort für unterschiedliche Kurse anmelden. 
+Für unser Projekt, eine Konferenzwebsite zu programmieren, haben wir die Universität Venezia ausgesucht. Dafür haben wir eine universitätswebsite programmiert. Auf verschiedenen Unterseiten kann man sämliche Informationen herausfinden. Ausserdem können sich studierende dort für unterschiedliche Kurse anmelden. 
 Die Idee dieses Projektes kam dadurch zustande, dass wir beide sehr gerne für eine Zeit im Ausland studieren würden. Uns ist aufgefallen, dass bei der Auswahl einer Universität deren Website eine grosse Rolle spielt. Deshalb haben wir es uns als Aufgabe gestellt eine ansprechende Website für die Universiät Venezia zu gestalten.
 
 ## Projektplan
@@ -17,19 +17,19 @@ Auf der Hauptseite war es für uns in erster Linie wichtig, dass neue Studenten 
 
 ### Unterseite 1 - Vorlesungen
 ![vorlesungen](src/bilder/skizze_vorlesungen.jpeg)
+![kurs](src/bilder/skizze_kurs.jpeg)
 
 
-Hier können sie unsere Studenten und Studentinnen für verschiedenste Vorlesungen anmelden. Jedoch auch abmelden, wenn man nicht teilnehmen kann.
+Hier können sie unsere Studenten und Studentinnen für verschiedenste Vorlesungen anmelden. Jedoch auch abmelden, wenn die Teilnahme doch nicht möglich ist.
 
 ### Unterseite 2 - Campus
 ![campus](src/bilder/skizze_campus.jpeg)
 
 
-Auf der zweiten Unterseite wollten wir den Campus vorstellen. Um ihn von verschiedenen Perspektiven zeigen zu können haben wir einerseits einen Text verfasstr aber auch zwei schöne Bilder ausgewählt.
+Auf der zweiten Unterseite wollten wir den Campus vorstellen. Um ihn von verschiedenen Perspektiven zeigen zu können haben wir einerseits einen Text verfasst aber auch zwei schöne Bilder ausgewählt.
 
 ### Unterseite 3 - Kontakt
 ![kontakt](src/bilder/skizze_kontakt.jpeg)
-![kurs](src/bilder/skizze_kurs.jpeg)
 
 
 Auf der Kontaktseite wollten wir zuerst Telefonnummer und Emailadresse notieren. Nach kurzem Überlegen haben wir uns aber dazu entschieden die Daten in den footer zu schreiben, da sie so von jeder Seite direkt sichtbar sind. 
@@ -39,7 +39,7 @@ Als Karte haben wir eine Interaktive Karte verwendet. Man kann herein- oder hera
 ### Unterseite 4 - Anmeldeoption
 ![anmelden](src/bilder/skizze_anmelden.jpeg)
 
-Hier können sich alle Studierenden der Universität mit ihrem Benutzerkonto anmelden. Dies ist notwendig, damit sie sich später auch für die vorlesungen anmelden können und so ihren individuellen Anmeldestatus überprüfen können.
+Hier können sich alle Studierenden der Universität mit ihrem Benutzerkonto anmelden. Dies ist notwendig, damit sie sich später auch für die Vorlesungen anmelden können und so ihren individuellen Anmeldestatus überprüfen können.
 
 
 
@@ -77,7 +77,7 @@ Das Logo der Universität, welches auf jeder Seite im Banner zu finden ist, habe
 
 
 
-Die oben zu sehenden Bilder passen sich der Fenstergrösse an. Dafür haben wir eine flex-Box erstellt und `justify-content: strech;` verwendet. Für unser Angebot und die News haben wir die oben erwähnten Kontainer (flex-Boxen) verwendet. Im Text zum Angebot erfährt man eine kleine Zusammenfassung über die Dienstleitungen unserer Praxis. Das Bild fanden wir sehr passend, da in dieser Auslage die Angebote der Lektüren in unserem Wartebereich zu sehen sind. Da unserer Praxis gerade umgezogen ist haben wir uns entschieden ein Bild unseres neuen Standortes zu wählen, da dies der Inhalt unserer News ist.
+Die oben zu sehenden Bilder passen sich der Fenstergrösse an. Dafür haben wir eine flex-Box erstellt und `justify-content: strech;` verwendet. Für unser Angebot und die News haben wir die oben erwähnten Kontainer (flex-Boxen) verwendet. Im ersten Text erfärt man etwas über die Geschichte der Universität venezia. Im zweiten Text gratulieren wir allen Studenten des Abschlussjahrganges.
 
 
 ### Unterseite 1 - Vorlesungen
@@ -85,24 +85,25 @@ Die oben zu sehenden Bilder passen sich der Fenstergrösse an. Dafür haben wir 
 
 
 
-Auf der ersten Unterseite befinden sich alle Vorlesungen, die die Universität anbietet vor. Die Anmeldug solll möglichs einfach gehalten werden, aber auch ansprechend designt sein, deshalb haben wir uns für ein schlichtes Design entschieden. Im Text zum juristischen Büro erwähnen wir das Anwaltsgeheimnis und gehen auf die Arbeit unserer Anwältin (Mia Hollenstein) ein. Im Text zum medizinischen Behandlungszimmer gehen wir auf die Arbeit unserer Rechtsmedizinerin (Anna Bühler) ein. 
+Auf der ersten Unterseite befinden sich alle Vorlesungen, die die Universität anbietet. Die Anmeldug solll möglichs einfach gehalten werden, aber auch ansprechend designt sein, deshalb haben wir uns für ein schlichtes Design entschieden. Zu jeder Vorlesung sind die Zeiten angegeben aber auch die Thematik.
 
 ### Unterseite 2 - campus
 ![campus](src/bilder/campus.png)
 
 
-Auf der dritten Unterseite stellen wir die Universität vor. In einem text erläutern wir die Lage aber auch die Umgebung der Universität. Der Text dient als Einblick in das Leben in Venedig. 
+Auf der zweiten Unterseite stellen wir den Campus vor. In einem Text erläutern wir die Lage aber auch die Umgebung der Universität. Der Text dient als Einblick in das Studienleben Venedigs. 
 
 
 ### Unterseite 3 - kontakt
 ![Kontakt](src/bilder/kontakt.png)
 
-Auf der letzten Unterseite haben wir uns überlegt eine interaktive Karte zu verwenden die direkt zu unserem Standort führt. Dafür haben wir auf Google Maps den Link kopiert und eingefügt und einen iframe erstellt. So wollen wir es zukunftigen Studenten und Studentinnen einfacher machen die Universität zu finden.
+Auf der dritten Unterseite haben wir uns überlegt eine interaktive Karte zu verwenden die direkt zu unserem Standort führt. Dafür haben wir auf Google Maps den Link kopiert und eingefügt und einen iframe erstellt. So wollen wir es zukunftigen Studenten und Studentinnen einfacher machen die Universität zu finden.
 
 ### Unterseite 4 - anmelden
 ![anmelden](src/bilder/anmelden.png)
 
+Auf dieser Unterseite können sich die Studierenden mit ihrem Konto anmelden. So können sie sich dann für alle Vorlesungen anmelden und abmelden. Jeder hat so eine individuelles Konto.
 
 ## Zusammenfassung
 
-Schlussendlich sind wir mit der Umsetung unserer Skizzen sehr zufrieden. Den Zeitplan haben wir während des programmierens nicht direkt eingehalten, da wir gemerkt haben, dass wir am liebsten mehrer Stunden am Stück arbeiten und dann eine Pause machen. Bevor  wir mit dem eigentlichen programmieren starten konnten muessten wir als erstes dei Website programmieren. 
+Schlussendlich sind wir mit der Umsetung unserer Skizzen sehr zufrieden. Den Zeitplan haben wir während des programmierens nicht direkt eingehalten, da wir gemerkt haben, dass wir am liebsten mehrer Stunden am Stück arbeiten und dann eine Pause machen. Bevor  wir mit dem eigentlichen programmieren starten konnten, mussten wir als erstes die Website programmieren. 
