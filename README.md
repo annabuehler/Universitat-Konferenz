@@ -81,7 +81,7 @@ Die oben zu sehenden Bilder passen sich der Fenstergrösse an. Dafür haben wir 
 
 
 ### Unterseite 1 - Vorlesungen
-![Vorlesungen Bsp.](src/bilder/Vorlesungen_2.png)
+![Vorlesungen Bsp.](src/bilder/Vorlesungen.png)
 
 
 Auf der ersten Unterseite befinden sich alle Vorlesungen, die die Universität anbietet vor. Die Anmeldug solll möglichs einfach gehalten werden, aber auch ansprechend designt sein, deshalb haben wir uns für ein schlichtes Design entschieden. Im Text zum juristischen Büro erwähnen wir das Anwaltsgeheimnis und gehen auf die Arbeit unserer Anwältin (Mia Hollenstein) ein. Im Text zum medizinischen Behandlungszimmer gehen wir auf die Arbeit unserer Rechtsmedizinerin (Anna Bühler) ein. 
