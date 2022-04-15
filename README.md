@@ -10,24 +10,26 @@ Auf jeder Unterseite unserer Website befindet sich ein header mit dem Logo der U
 Einserseits war es uns wichtig eine funktionierende und ansprechend gestaltete Website zu Programmieren, andererseits sollten Stundierende eine Anmeldemöglichkeit haben. Unsere Idee war es ein Anmeldebutton/Abmeldebutton zu programmieren. Sobald man angemeldet ist, hat man die Möglichkeit sich für unterschiedliche Kurse anzumelden.  
 
 ### Hauptseite - universität
-
+![home](src/bilder/readme_sizze/skizze_home.jpeg)
 
 
 Auf der Hauptseite war es für uns in erster Linie wichtig, dass neue Studenten und Studentinnen durch unsere Website gefallen an der Universität finden und dort eventuell studieren werden. Deshalb war uns eine einfache und übersichtliche Gliederung wichtig, damit man schnell zu den wichtigsten Informatinen gelant. Wir haben uns auch entschieden die News auf die Hauptseite zu nehmen damit sie für jeden schnell ersichtlich sind. Auch war uns die Geschichte und Lage der Universität wichtig, daher haben wir darüber auch kurze texte geschrieben 
 
 ### Unterseite 1 - Vorlesungen
+![vorlesungen](src/bilder/readme_sizze/skizze_vorlesungen.jpeg)
 
 
 Hier können sie unsere Studenten und Studentinnen für verschiedenste Vorlesungen anmelden. Jedoch auch abmelden, wenn man nicht teilnehmen kann.
 
 ### Unterseite 2 - Campus
-
+![campus](src/bilder/readme_sizze/skizze_campus.jpeg)
 
 
 Auf der zweiten Unterseite wollten wir den Campus vorstellen. Um ihn von verschiedenen Perspektiven zeigen zu können haben wir einerseits einen Text verfasstr aber auch zwei schöne Bilder ausgewählt.
 
 ### Unterseite 3 - Kontakt
-
+![kontakt](src/bilder/readme_sizze/skizze_kontakt.jpeg)
+![kurs](src/bilder/readme_sizze/skizze_kurs.jpeg)
 
 
 Auf der Kontaktseite wollten wir zuerst Telefonnummer und Emailadresse notieren. Nach kurzem Überlegen haben wir uns aber dazu entschieden die Daten in den footer zu schreiben, da sie so von jeder Seite direkt sichtbar sind. 
@@ -35,9 +37,12 @@ Auf der Kontaktseite wollten wir zuerst Telefonnummer und Emailadresse notieren.
 Als Karte haben wir eine Interaktive Karte verwendet. Man kann herein- oder herauszoomen, so ist die Lage der Universität gut ersichtlich.
 
 ### Unterseite 4 - Anmeldeoption
-
+![anmelden](src/bilder/readme_sizze/skizze_anmelden.jpeg)
 
 Hier können sich alle Studierenden der Universität mit ihrem Benutzerkonto anmelden. Dies ist notwendig, damit sie sich später auch für die vorlesungen anmelden können und so ihren individuellen Anmeldestatus überprüfen können.
+
+
+
 ## Zeitplan
 
 
