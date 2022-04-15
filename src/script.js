@@ -20,7 +20,7 @@ const defaultPage = "home";
  * Source: https://www.w3schools.com/howto/howto_html_include.asp
  */
 function includeHTML() {
-    var z, i, elmnt, file, xhttp;
+    var z, i, elmnt, file, js, xhttp;
     // Loop through a collection of all HTML elements:
     z = document.getElementsByTagName("*");
     for (i = 0; i < z.length; i++) {
@@ -34,6 +34,7 @@ function includeHTML() {
                 page = defaultPage; 
             }
             file = pagesDirectory + page + ".html";
+            js = pagesDirectory + page + ".js";
         }
         if (file) {
             // Make an HTTP request using the attribute value as the file name
@@ -49,6 +50,10 @@ function includeHTML() {
             }
             xhttp.open("GET", file, true);
             xhttp.send();
+
+            if (js) {
+                loadJS(js, true);
+            }
             return;
         }
     }
@@ -66,29 +71,21 @@ document.addEventListener("DOMContentLoaded", function (event) {
 // OTHER SCRIPTS //
 ///////////////////
 
-function anmelden(){
+function loadJS(fileUrl) {
+    let scriptEle = document.createElement("script");
 
-    window.sessionStorage.clear();
+    scriptEle.setAttribute("src", fileUrl);
+    scriptEle.setAttribute("type", "text/javascript");
+    scriptEle.setAttribute("async", true);
 
-    var benutzername = document.getElementById('benutzername').value;
+    document.body.appendChild(scriptEle);
 
-
-    const benutzer = {
-        name: benutzername
-    }
-
-    window.sessionStorage.setItem('currentBenutzer', JSON.stringify(benutzer));
+    // success event
+    scriptEle.addEventListener("load", () => {
+        init()
+    });
+    // error event
+    scriptEle.addEventListener("error", (ev) => {
+        console.log("Error on loading file", ev);
+    });
 }
-
-function abmelden (){
-    window.sessionStorage.clear();
-}
-
-
-function teilnehmen (){
-
-    var currentBenutzer=JSON.parse(window.sessionStorage.getItem('currentBenutzer'));
-
-    window.localStorage.setItem(benutzername, JSON.stringify());
-}
-

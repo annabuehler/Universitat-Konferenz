@@ -1,36 +1,29 @@
 <div class="anmelden">
 
-
-
-
+     
     <form id="anmeldenForm">
 
 
-
-
         <p>
-            <label for="benutzername">Benutzername:</label>
-            <input type="text" id="benutzername" required autofocus></input>
+            <label for="benutzername">Benutzername:
+                <input type="email" id="benutzername" required autofocus>
+            </label>
         </p>
 
         <p>
-            <label for="passwort">Passwort:</label>
-            <input type="text" id="passwort" required></input>
+            <label for="passwort">Passwort:
+                <input type="password" id="passwort" required>
+            </label>
         </p>
 
-
-
-
+        <button type="button" id="anmeldenButton">Anmelden</button>
     </form>
 
 
-
-    <div class="row">
-
-        <button class="button" onclick="anmelden()" role="button">anmelden</button>
-
+    <div class="row" id="abmeldenForm" style="display: none;">
+        <p>Hallo <div id="aktuellerBenutzer"></div></p>
+        <button class="button" role="button" type="button" id="abmeldenButton">Abmelden</button>
     </div>
-
 
 
 </div>
