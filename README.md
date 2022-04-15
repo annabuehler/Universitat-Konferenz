@@ -81,14 +81,14 @@ Die oben zu sehenden Bilder passen sich der Fenstergrösse an. Dafür haben wir 
 
 
 ### Unterseite 1 - Vorlesungen
-![Vorlesungen Bsp.](src/bilder/Vorlesungen.png)
+![Vorlesungen ](src/bilder/Vorlesungen.png)
+
 
 
 Auf der ersten Unterseite befinden sich alle Vorlesungen, die die Universität anbietet vor. Die Anmeldug solll möglichs einfach gehalten werden, aber auch ansprechend designt sein, deshalb haben wir uns für ein schlichtes Design entschieden. Im Text zum juristischen Büro erwähnen wir das Anwaltsgeheimnis und gehen auf die Arbeit unserer Anwältin (Mia Hollenstein) ein. Im Text zum medizinischen Behandlungszimmer gehen wir auf die Arbeit unserer Rechtsmedizinerin (Anna Bühler) ein. 
 
 ### Unterseite 2 - campus
-![text campus](src/bilder/text_campus.png)
-![bild cmapus](src/bilder/bild_campus.png)
+![campus](src/bilder/campus.png)
 
 
 Auf der dritten Unterseite stellen wir die Universität vor. In einem text erläutern wir die Lage aber auch die Umgebung der Universität. Der Text dient als Einblick in das Leben in Venedig. 
