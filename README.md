@@ -35,7 +35,7 @@ Auf der Kontaktseite wollten wir zuerst Telefonnummer und Emailadresse notieren.
 Als Karte haben wir eine Interaktive Karte verwendet. Man kann herein- oder herauszoomen, so ist die Lage der Universität gut ersichtlich.
 
 ### Unterseite 4 - Anmeldeoption
-![Anmeldeoption](src/bilder/anmelden.png)
+
 
 Hier können sich alle Studierenden der Universität mit ihrem Benutzerkonto anmelden. Dies ist notwendig, damit sie sich später auch für die vorlesungen anmelden können und so ihren individuellen Anmeldestatus überprüfen können.
 ## Zeitplan
@@ -69,7 +69,7 @@ Das Logo der Universität, welches auf jeder Seite im Banner zu finden ist, habe
 
 ### Hauptseite - home
 ![home](src/bilder/unive_home.png)
-![homepage](src/bilder/home_bildbanner.png)
+
 
 
 Die oben zu sehenden Bilder passen sich der Fenstergrösse an. Dafür haben wir eine flex-Box erstellt und `justify-content: strech;` verwendet. Für unser Angebot und die News haben wir die oben erwähnten Kontainer (flex-Boxen) verwendet. Im Text zum Angebot erfährt man eine kleine Zusammenfassung über die Dienstleitungen unserer Praxis. Das Bild fanden wir sehr passend, da in dieser Auslage die Angebote der Lektüren in unserem Wartebereich zu sehen sind. Da unserer Praxis gerade umgezogen ist haben wir uns entschieden ein Bild unseres neuen Standortes zu wählen, da dies der Inhalt unserer News ist.
@@ -93,6 +93,10 @@ Auf der dritten Unterseite stellen wir die Universität vor. In einem text erlä
 ![Kontakt](src/bilder/kontakt.png)
 
 Auf der letzten Unterseite haben wir uns überlegt eine interaktive Karte zu verwenden die direkt zu unserem Standort führt. Dafür haben wir auf Google Maps den Link kopiert und eingefügt und einen iframe erstellt. So wollen wir es zukunftigen Studenten und Studentinnen einfacher machen die Universität zu finden.
+
+### Unterseite 4 - anmelden
+![anmelden](src/bilder/anmelden.png)
+
 
 ## Zusammenfassung
 
