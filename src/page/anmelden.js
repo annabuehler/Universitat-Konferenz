@@ -37,3 +37,6 @@ function hideAnmeldeForm() {
         document.getElementById('aktuellerBenutzer').textContent = aktuellerBenutzer
     }
 }
+
+
+
